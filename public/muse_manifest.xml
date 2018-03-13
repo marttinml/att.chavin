@@ -1,0 +1,36 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="factura.com" resolutions="1x" timestamp="1520979460074">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="196250482" ref="index"/>
+    <file name="inicio---copia.css" crc="4232879102" ref="inicio---copia"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:inicio---copia"/>
+    <file name="museutils.js" crc="3803043152" ref="index:inicio---copia"/>
+    <file name="whatinput.js" crc="86476730" ref="index:inicio---copia"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:inicio---copia"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:inicio---copia"/>
+    <file name="require.js" crc="4157109226" ref="index:inicio---copia"/>
+  </folder>
+  <folder name="images">
+    <file name="2.png" crc="436520046" seo="true" ref="index:inicio---copia">
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+    </file>
+    <file name="1-crop-u104.png" crc="190388482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 5.png" crc="23669479" seo="true" ref="index:inicio---copia">
+      <caption webpage="index" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+    </file>
+    <file name="1-crop-u207.png" crc="190388482" seo="true" ref="inicio---copia">
+      <caption webpage="inicio---copia" alt=""/>
+    </file>
+    <file name="group 15-crop-u234.png" crc="3815860577" seo="true" ref="inicio---copia">
+      <caption webpage="inicio---copia" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="464916303" seo="true" mt="1520979417943" redirect="true"/>
+  <file name="inicio---copia.html" crc="4013735636" seo="true" mt="1520979435794" redirect="true"/>
+</manifest>
