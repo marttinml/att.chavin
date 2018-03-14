@@ -9,14 +9,14 @@
       <image:loc>http://factura.com/images/2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://factura.com/images/1-crop-u104.png</image:loc>
+      <image:loc>http://factura.com/images/group%205.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://factura.com/images/group%205.png</image:loc>
+      <image:loc>http://factura.com/images/1.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://factura.com/inicio---copia.html</loc>
+    <loc>http://factura.com/men%C3%BA.html</loc>
     <lastmod>2018-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -27,10 +27,79 @@
       <image:loc>http://factura.com/images/group%205.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://factura.com/images/1-crop-u207.png</image:loc>
+      <image:loc>http://factura.com/images/1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://factura.com/images/group%2015-crop-u234.png</image:loc>
+      <image:loc>http://factura.com/images/m1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://factura.com/images/group%2015.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://factura.com/men%C3%BA-ok-mail.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://factura.com/images/2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://factura.com/images/group%205.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://factura.com/images/1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://factura.com/images/group%2015.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://factura.com/images/m2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://factura.com/plan.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://factura.com/images/2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://factura.com/images/group%205.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://factura.com/images/plan.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://factura.com/ineternet.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://factura.com/images/2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://factura.com/images/group%205.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://factura.com/images/internet.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://factura.com/servicios.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://factura.com/images/2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://factura.com/images/group%205.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://factura.com/images/servicios.png</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -1,36 +1,69 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="factura.com" resolutions="1x" timestamp="1520979460074">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="factura.com" resolutions="1x" timestamp="1520984057748">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="196250482" ref="index"/>
-    <file name="inicio---copia.css" crc="4232879102" ref="inicio---copia"/>
+    <file name="index.css" crc="25959129" ref="index"/>
+    <file name="servicios.css" crc="528779074" ref="servicios"/>
+    <file name="men_-ok-mail.css" crc="4238577447" ref="menú-ok-mail"/>
+    <file name="plan.css" crc="228750438" ref="plan"/>
+    <file name="ineternet.css" crc="4077031612" ref="ineternet"/>
+    <file name="men_.css" crc="4170765866" ref="menú"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:inicio---copia"/>
-    <file name="museutils.js" crc="3803043152" ref="index:inicio---copia"/>
-    <file name="whatinput.js" crc="86476730" ref="index:inicio---copia"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:inicio---copia"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:inicio---copia"/>
-    <file name="require.js" crc="4157109226" ref="index:inicio---copia"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menú:menú-ok-mail:plan:ineternet:servicios"/>
+    <file name="museutils.js" crc="3803043152" ref="index:menú:menú-ok-mail:plan:ineternet:servicios"/>
+    <file name="whatinput.js" crc="86476730" ref="index:menú:menú-ok-mail:plan:ineternet:servicios"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:menú:menú-ok-mail:plan:ineternet:servicios"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:menú:menú-ok-mail:plan:ineternet:servicios"/>
+    <file name="require.js" crc="4157109226" ref="index:menú:menú-ok-mail:plan:ineternet:servicios"/>
   </folder>
   <folder name="images">
-    <file name="2.png" crc="436520046" seo="true" ref="index:inicio---copia">
+    <file name="2.png" crc="436520046" seo="true" ref="index:menú:menú-ok-mail:plan:ineternet:servicios">
+      <caption webpage="menú" alt=""/>
+      <caption webpage="ineternet" alt=""/>
+      <caption webpage="menú-ok-mail" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="plan" alt=""/>
       <caption webpage="inicio---copia" alt=""/>
     </file>
-    <file name="1-crop-u104.png" crc="190388482" seo="true" ref="index">
+    <file name="group 5.png" crc="23669479" seo="true" ref="index:menú:menú-ok-mail:plan:ineternet:servicios">
+      <caption webpage="menú" alt=""/>
+      <caption webpage="ineternet" alt=""/>
+      <caption webpage="menú-ok-mail" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
     </file>
-    <file name="group 5.png" crc="23669479" seo="true" ref="index:inicio---copia">
+    <file name="1.png" crc="160763967" seo="true" ref="index:menú:menú-ok-mail">
       <caption webpage="index" alt=""/>
-      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="menú" alt=""/>
+      <caption webpage="menú-ok-mail" alt=""/>
     </file>
-    <file name="1-crop-u207.png" crc="190388482" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
+    <file name="m1.png" crc="298515888" seo="true" ref="menú">
+      <caption webpage="menú" alt=""/>
     </file>
-    <file name="group 15-crop-u234.png" crc="3815860577" seo="true" ref="inicio---copia">
-      <caption webpage="inicio---copia" alt=""/>
+    <file name="group 15.png" crc="4210392546" seo="true" ref="menú:menú-ok-mail">
+      <caption webpage="menú" alt=""/>
+      <caption webpage="menú-ok-mail" alt=""/>
+    </file>
+    <file name="m2.png" crc="515111119" seo="true" ref="menú-ok-mail">
+      <caption webpage="menú-ok-mail" alt=""/>
+    </file>
+    <file name="plan.png" crc="21227931" seo="true" ref="plan">
+      <caption webpage="plan" alt=""/>
+    </file>
+    <file name="internet.png" crc="3970512812" seo="true" ref="ineternet">
+      <caption webpage="ineternet" alt=""/>
+    </file>
+    <file name="servicios.png" crc="305697697" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="464916303" seo="true" mt="1520979417943" redirect="true"/>
-  <file name="inicio---copia.html" crc="4013735636" seo="true" mt="1520979435794" redirect="true"/>
+  <file name="index.html" crc="4156522766" seo="true" mt="1520982993083" redirect="true"/>
+  <file name="menú.html" crc="121569838" seo="true" mt="1520983885832" redirect="true"/>
+  <file name="menú-ok-mail.html" crc="4074390405" seo="true" mt="1520983939067" redirect="true"/>
+  <file name="plan.html" crc="59008947" seo="true" mt="1520982891505" redirect="true"/>
+  <file name="ineternet.html" crc="160743263" seo="true" mt="1520982902873" redirect="true"/>
+  <file name="servicios.html" crc="454996052" seo="true" mt="1520982875554" redirect="true"/>
 </manifest>
